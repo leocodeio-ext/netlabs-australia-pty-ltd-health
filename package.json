@@ -1,6 +1,6 @@
 {
   "name": "netlabs-australia-pty-ltd-health",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A health check module for NestJS applications",
   "author": "Your Name",
   "private": false,
