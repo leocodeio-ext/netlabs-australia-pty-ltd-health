@@ -1,5 +1,5 @@
 {
-  "name": "@netlabs-australia-pty-ltd/health",
+  "name": "netlabs-australia-pty-ltd-health",
   "version": "0.0.1",
   "description": "A health check module for NestJS applications",
   "author": "Your Name",
