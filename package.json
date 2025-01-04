@@ -1,0 +1,23 @@
+{
+  "name": "@netlabs-australia-pty-ltd/health",
+  "version": "0.0.1",
+  "description": "A health check module for NestJS applications",
+  "author": "Your Name",
+  "private": false,
+  "license": "MIT",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "nestjs",
+    "health",
+    "monitoring",
+    "prometheus"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
