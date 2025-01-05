@@ -1,0 +1,15 @@
+{
+  "name": "test-install-pnpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "netlabs-australia-pty-ltd-health": "^0.0.6"
+  }
+}
